@@ -8,8 +8,8 @@ In **Settings → Pages**, select **Deploy from a branch**, choose **main** and 
 
 ## Files
 
-- `index.html`: page, styling and animation logic.
-- `assets/guardian.png`: neural guardian artwork.
+- `index.html`: AXOVYN page, styling and animation logic, with embedded guardian artwork.
+- `assets/axovyn-logo.png`: official AXOVYN project logo.
 - `.nojekyll`: serve this as a plain static site.
 
 ## Behavior
